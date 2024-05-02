@@ -1,0 +1,67 @@
+{
+    "items":[
+        {
+            "description" : "this is discription",
+            "discountedPrice" : 340,
+            "price" : 450,
+            "thumbnail" : "dress1.jpeg",
+            "title" : "Dress"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "discountedPrice" : 340,
+            "price" : 450,
+            "thumbnail" : "dress22.jpeg",
+            "title" : "Dress"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "discountedPrice" : 340,
+            "price" : 450,
+            "thumbnail" : "dress3.jpeg",
+            "title" : "Dress"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "discountedPrice" : 340,
+            "price" : 450,
+            "thumbnail" : "dress4.jpeg",
+            "title" : "Dress"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "discountedPrice" : 399,
+            "price" : 499,
+            "thumbnail" : "dress5.jpeg",
+            "title" : "Dress"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "discountedPrice" : 599,
+            "price" : 899,
+            "thumbnail" : "dress6.jpeg",
+            "title" : "Dress"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "discountedPrice" : 440,
+            "price" : 650,
+            "thumbnail" : "dress7.jpeg",
+            "title" : "Dress"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "discountedPrice" : 299,
+            "price" : 550,
+            "thumbnail" : "dress8.jpeg",
+            "title" : "Dress"
+        },
+        {
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "discountedPrice" : 299,
+            "price" : 550,
+            "thumbnail" : "d1.webp",
+            "title" : "Dress"
+        }
+    ]
+}
